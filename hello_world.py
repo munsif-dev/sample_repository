@@ -6,3 +6,10 @@ def greet(name):
 def farewell(name):
     print(f"good bye, {name}")
 
+
+
+# small change
+
+if __name__ == "__main__":
+    greet("Alice")
+    farewell("Bob")

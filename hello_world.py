@@ -9,7 +9,6 @@ def farewell(name):
 
 
 # small change
-
 if __name__ == "__main__":
     greet("Alice")
     farewell("Bob")
